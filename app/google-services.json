@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1089352023075",
+    "firebase_url": "https://rain-5a450.firebaseio.com",
+    "project_id": "rain-5a450",
+    "storage_bucket": "rain-5a450.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089352023075:android:f95ec4e95638d84cd60596",
+        "android_client_info": {
+          "package_name": "com.example.myfistapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089352023075-ioa4fb0m277nnns50b4a900hgqqou8ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbyOykRhh3n0qjsgYuNXA0e-x895JRqac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089352023075-ioa4fb0m277nnns50b4a900hgqqou8ij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
